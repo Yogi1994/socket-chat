@@ -1,0 +1,30 @@
+{
+  "name": "socket_chat",
+  "version": "1.0.0",
+  "description": "Socket io test 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yogi1994/socket-chat.git"
+  },
+  "keywords": [
+    "Socket",
+    "io",
+    "node",
+    "express"
+  ],
+  "author": "Yogesh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogi1994/socket-chat/issues"
+  },
+  "homepage": "https://github.com/Yogi1994/socket-chat#readme"
+}
